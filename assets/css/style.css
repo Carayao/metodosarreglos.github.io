@@ -1,0 +1,31 @@
+* {
+    background-color: beige;
+    padding-left: 5px;
+}
+
+
+button {
+background-color: green;
+color:white;
+border-radius: 2px;
+}
+
+.seccion2 {
+    display: flex;
+    padding-top: 15px;
+   
+}
+
+.tablaTareas {
+    display: flex;
+
+}
+
+.table {
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+
+
